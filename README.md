@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**neetisabnani/neetisabnani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on upskilling myself to work in clean energy transition and environmental policy
 - 🌱 I’m currently learning python for social research
 - 👯 I’m looking to collaborate on beginner python projects or datasets relating to climate change and renewable energy sources
