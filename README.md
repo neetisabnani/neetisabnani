@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on upskilling myself to work in clean energy transition and environmental policy
+- 🔭 I’m currently studying energy and climate to later work in clean energy transition and environmental policy
 - 🌱 I’m currently learning python for social research
 - 👯 I’m looking to collaborate on beginner python projects or datasets relating to climate change and renewable energy sources
 - 🤔 I’m looking for help with coding on python
