@@ -33,4 +33,4 @@ I’m always interested in:
 ## 🤝 Reach out
 
 📫 Email: ns3838@columbia.edu
-🌐 LinkedIn: linkedin.com/in/neeti-sabnani-01
+🌐 LinkedIn: www.linkedin.com/in/neeti-sabnani-01
