@@ -6,7 +6,7 @@ I’m a policy researcher passionate about energy transitions, climate governanc
 
 - Exploring how quantitative tools can strengthen climate and energy policy design.
 
-- Building skills in Python and R to model, analyze, and visualize data for social and environmental research.
+- Refining my skills in Python and R to model, analyze, and visualize data for social and environmental research.
 
 - Creating small analytical projects that connect renewable energy, regulation, and equity.
 
